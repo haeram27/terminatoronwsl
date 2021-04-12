@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XLaunch WindowMode="MultiWindow" ClientMode="StartProgram" LocalClient="False" Display="-1" LocalProgram="xcalc" RemoteProgram="terminator" RemoteHost="<ipaddr of xserver machine>" RemoteUser="<myid>"  RemotePassword="<mypasswd>" PrivateKey="" XDMCPHost="" XDMCPBroadcast="False" XDMCPIndirect="False" Clipboard="True" ClipboardPrimary="True" ExtraParams="" Wgl="False" DisableAC="True" XDMCPTerminate="False"/>
